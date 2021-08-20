@@ -4,7 +4,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"acln.ro/perf"
+	"github.com/zyedidia/perf"
 )
 
 func TestCommand(t *testing.T) {

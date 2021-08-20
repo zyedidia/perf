@@ -16,7 +16,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"acln.ro/perf"
+	"github.com/zyedidia/perf"
 
 	"golang.org/x/sys/unix"
 )

@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"acln.ro/perf"
+	"github.com/zyedidia/perf"
 )
 
 func TestGroup(t *testing.T) {

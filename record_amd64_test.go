@@ -12,7 +12,7 @@ import (
 	"time"
 	"unsafe"
 
-	"acln.ro/perf"
+	"github.com/zyedidia/perf"
 )
 
 func TestSampleUserRegisters(t *testing.T) {
